@@ -4,7 +4,7 @@
 <b>Discipline | <b>Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Metal Forming Virtual Simulation Lab (Processes)
-<b> Experiment|     <b> Ring Rolling
+<b> Experiment|     <b> Ring Rolling Processes
 
 ### About the Experiment 
 
