@@ -2,38 +2,84 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which is the main roll:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Mandrel",
+        "b": "Conical roll",
+        "c": "king roll",
+        "d": "all the rolls"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Mandrel acts as pressure roll.",
+        "b": "Conical rolls control width.",
+        "c": "King roll is the main driving roll.",
+        "d": "Not all rolls are main rolls."
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "c"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which is the pressure roll:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Mandrel",
+        "b": "Conical rolls",
+        "c": "king roll",
+        "d": "No roll"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Mandrel applies pressure on the ring.",
+        "b": "Conical rolls control width only.",
+        "c": "King roll is the driving roll.",
+        "d": "Incorrect."
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "a"
+    },
+    {
+      "question": "Conical rolls are used to:",
+      "answers": {
+        "a": "Deform the ring from sides",
+        "b": "To make the width of the ring constant",
+        "c": "To roll the ring",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Side deformation is secondary.",
+        "b": "Conical rolls maintain constant width.",
+        "c": "Rolling is done by king roll and mandrel.",
+        "d": "Incorrect."
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Ring rolling process is of ..... types:",
+      "answers": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "explanations": {
+        "a": "Incorrect.",
+        "b": "Ring rolling is classified into hot and cold rolling.",
+        "c": "Incorrect.",
+        "d": "Incorrect."
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Cold rolling is done mainly for:",
+      "answers": {
+        "a": "Changing grain structure",
+        "b": "Increase the diameter of the ring",
+        "c": "Strain hardening",
+        "d": "Reduce thickness"
+      },
+      "explanations": {
+        "a": "Grain structure change mainly occurs in hot rolling.",
+        "b": "Diameter increase is a result, not purpose.",
+        "c": "Cold rolling is mainly done to achieve strain hardening.",
+        "d": "Thickness reduction occurs in both processes."
+      },
+      "correctAnswer": "c"
     }
   ]
 }
