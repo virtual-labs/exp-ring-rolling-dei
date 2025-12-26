@@ -29,6 +29,9 @@ adequate filling of roll cavities when they are too deep, as material tends to e
 diameter instead of filling the cavities.
 </p>
 
+<center><img src="images/3D_RingRolling.jpg" alt="Ring Rolling Ajay Knat Upadhyay" height="250" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/RingRolling.png" alt="Ring Rolling Ajay Kant Upadhyay" height="250" width="400"><br>
+<br>Figure: (a) 3-D View of Ring Rolling Process, (b) Schematic View of Ring Rolling Process</center>
+
 <h2>Ring Rolling Process Description</h2>
 
 <p>
@@ -73,7 +76,7 @@ zones.
     <li>no – Ring rotational speed</li>
     <li>va – Mandrel advance velocity</li>
 </ul>
-
+<img src="images/RingRollingDescription.png" alt="Ring Rolling Ajay Kant Upadhyay" height="300" width="400">
 <h2>Volume Conservation</h2>
 
 <p>Assuming plane strain conditions:</p>
