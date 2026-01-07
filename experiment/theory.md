@@ -32,7 +32,7 @@ diameter instead of filling the cavities.
 <center><img src="images/3D_RingRolling.jpg" alt="Ring Rolling Ajay Knat Upadhyay" height="250" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/RingRolling.png" alt="Ring Rolling Ajay Kant Upadhyay" height="250" width="400"><br>
 <br>Figure: (a) 3-D View of Ring Rolling Process, (b) Schematic View of Ring Rolling Process</center>
 
-###Ring Rolling Process Description###
+### Ring Rolling Process Description###
 
 <p>
 A typical ring rolling process consists of two sets of rolls: a radial set that reduces the
@@ -46,7 +46,7 @@ causing a continuous reduction in wall thickness while the ring diameter increas
 material incompressibility.
 </p>
 
-###Types of Ring Rolling Process
+### Types of Ring Rolling Process
 
 <h3>Cold Ring Rolling</h3>
 
@@ -63,7 +63,7 @@ zones.
     <li>Improved corrosion resistance with coated metals</li>
 </ul>
 
-###Analytical Description of Ring Rolling
+### Analytical Description of Ring Rolling
 
 <h3>Process Parameters</h3>
 
@@ -77,8 +77,8 @@ zones.
     <li>va – Mandrel advance velocity</li>
 </ul>
 <img src="images/RingRollingDescription.png" alt="Ring Rolling Ajay Kant Upadhyay" height="300" width="400">
-###Volume Conservation
 
+<h3>Volume Conservation</h3>
 <p>Assuming plane strain conditions:</p>
 
 <div class="formula">
@@ -90,7 +90,7 @@ V = V<sub>0</sub><br><br>
 d<sub>i</sub> = √[ d<sub>o</sub><sup>2</sup> − (d<sub>o,0</sub><sup>2</sup> − d<sub>i,0</sub><sup>2</sup>) ]
 </div>
 
-###Equivalent Flat Rolling Diameter
+### Equivalent Flat Rolling Diameter
 
 <h3>King Roll</h3>
 
