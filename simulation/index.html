@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulation - Ring Rolling Process</title>
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <!-- Modal Overlay -->
+    <div id="modal-overlay" class="modal-overlay">
+        <div class="modal-content">
+            <h2 class="modal-title">Select Ring Rolling Type</h2>
+            <p class="modal-description">Choose a ring rolling configuration</p>
+            <div class="modal-options">
+                <button class="modal-button" onclick="selectSimulation('flatring')">
+                    <h3>Flat Ring Rolling</h3>
+                    <p>Ring rolling process with flat surface configuration</p>
+                </button>
+                <button class="modal-button" onclick="selectSimulation('curvedring')">
+                    <h3>Curved Ring Rolling</h3>
+                    <p>Ring rolling process with curved surface configuration</p>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar" id="sidebar" style="display: none;">
+        <nav class="nav-menu">
+            <button class="back-button" onclick="backToSelection()">← Back to Selection</button>
+            
+            <div class="nav-section" id="flatring-nav" style="display: none;">
+                <h3 class="nav-title">Flat Ring Rolling</h3>
+                <ul class="nav-list">
+                    <li><a href="flatring-setup.html" class="nav-link">Flat Ring Setup</a></li>
+                    <li><a href="flatring-strain.html" class="nav-link">Flat Ring with Strain</a></li>
+                </ul>
+            </div>
+            
+            <div class="nav-section" id="curvedring-nav" style="display: none;">
+                <h3 class="nav-title">Curved Ring Rolling</h3>
+                <ul class="nav-list">
+                    <li><a href="curvedring-setup.html" class="nav-link">Curved Ring Setup</a></li>
+                    <li><a href="curvedring-strain.html" class="nav-link">Curved Ring with Strain</a></li>
+                </ul>
+            </div>
+        </nav>
+    </aside>
+
+    <script src="./js/main.js"></script>
+<script src="../assets/js/iframeResize.js"></script>
+        
+        </body>
+</html>

@@ -1,0 +1,85 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The ring rolling is widely used in forming:",
+      "answers": {
+        "a": "Pipes",
+        "b": "Piston rings",
+        "c": "Seamless rings",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Pipes are formed using extrusion or rolling.",
+        "b": "Piston rings are not the primary product.",
+        "c": "Ring rolling is mainly used to produce seamless rings.",
+        "d": "Incorrect because seamless rings are produced."
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "The ring rolling process is always advantageous:",
+      "answers": {
+        "a": "Yes",
+        "b": "No",
+        "c": "Can't say",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Ring rolling has certain disadvantages.",
+        "b": "Correct, ring rolling is not always advantageous.",
+        "c": "The advantages depend on application.",
+        "d": "Incorrect."
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "The main aim of ring rolling is to:",
+      "answers": {
+        "a": "Increase diameter",
+        "b": "Increase width",
+        "c": "Reduce cross-section",
+        "d": "Change ring shape"
+      },
+      "explanations": {
+        "a": "Increase in diameter occurs but is not the primary aim.",
+        "b": "Width is generally kept constant.",
+        "c": "Reducing cross-section while increasing diameter is the main aim.",
+        "d": "Shape change is secondary."
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "The king roll in the video is represented by:",
+      "answers": {
+        "a": "Red color",
+        "b": "Blue color",
+        "c": "Pink color",
+        "d": "Yellow color"
+      },
+      "explanations": {
+        "a": "Incorrect color representation.",
+        "b": "Incorrect color representation.",
+        "c": "Correct as per simulation video.",
+        "d": "Incorrect."
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "What is the kinematic of mandrel:",
+      "answers": {
+        "a": "Rotate",
+        "b": "Rotate and Translate",
+        "c": "Translate",
+        "d": "Either translate or rotate"
+      },
+      "explanations": {
+        "a": "Mandrel does not only rotate.",
+        "b": "Mandrel both rotates and translates.",
+        "c": "Translation alone is insufficient.",
+        "d": "Incorrect."
+      },
+      "correctAnswer": "b"
+    }
+  ]
+}
