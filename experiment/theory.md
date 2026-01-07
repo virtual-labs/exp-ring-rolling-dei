@@ -6,7 +6,7 @@
 
 <body>
 
-<h1>Ring Rolling</h1>
+### Theory
 
 <p>
 Ring rolling is a specialized type of metal forming operation, which reduces the thickness
@@ -32,7 +32,7 @@ diameter instead of filling the cavities.
 <center><img src="images/3D_RingRolling.jpg" alt="Ring Rolling Ajay Knat Upadhyay" height="250" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/RingRolling.png" alt="Ring Rolling Ajay Kant Upadhyay" height="250" width="400"><br>
 <br>Figure: (a) 3-D View of Ring Rolling Process, (b) Schematic View of Ring Rolling Process</center>
 
-<h2>Ring Rolling Process Description</h2>
+###Ring Rolling Process Description###
 
 <p>
 A typical ring rolling process consists of two sets of rolls: a radial set that reduces the
@@ -46,7 +46,7 @@ causing a continuous reduction in wall thickness while the ring diameter increas
 material incompressibility.
 </p>
 
-<h2>Types of Ring Rolling Process</h2>
+###Types of Ring Rolling Process
 
 <h3>Cold Ring Rolling</h3>
 
@@ -63,7 +63,7 @@ zones.
     <li>Improved corrosion resistance with coated metals</li>
 </ul>
 
-<h2>Analytical Description of Ring Rolling</h2>
+###Analytical Description of Ring Rolling
 
 <h3>Process Parameters</h3>
 
@@ -77,7 +77,7 @@ zones.
     <li>va – Mandrel advance velocity</li>
 </ul>
 <img src="images/RingRollingDescription.png" alt="Ring Rolling Ajay Kant Upadhyay" height="300" width="400">
-<h2>Volume Conservation</h2>
+###Volume Conservation
 
 <p>Assuming plane strain conditions:</p>
 
@@ -90,7 +90,7 @@ V = V<sub>0</sub><br><br>
 d<sub>i</sub> = √[ d<sub>o</sub><sup>2</sup> − (d<sub>o,0</sub><sup>2</sup> − d<sub>i,0</sub><sup>2</sup>) ]
 </div>
 
-<h2>Equivalent Flat Rolling Diameter</h2>
+###Equivalent Flat Rolling Diameter
 
 <h3>King Roll</h3>
 
@@ -104,7 +104,7 @@ d<sub>r,eq</sub> = (d<sub>r</sub>/2) / [ 1 + (d<sub>o,0</sub> + d<sub>o</sub>) /
 d<sub>m,eq</sub> = (d<sub>m</sub>/2) / [ 1 + (d<sub>i,0</sub> + d<sub>i</sub>) / d<sub>m</sub> ]
 </div>
 
-<h2>Mandrel Advance Velocity</h2>
+<h3>Mandrel Advance Velocity</h3>
 
 <div class="formula">
 V<sub>a</sub> = dh / dt
@@ -114,14 +114,14 @@ V<sub>a</sub> = dh / dt
 h<sub>1</sub> − h<sub>2</sub> = (60 d<sub>0</sub> V<sub>a</sub>) / (d<sub>r</sub> n<sub>r</sub>)
 </div>
 
-<h2>Roll Bite Condition</h2>
+<h3>Roll Bite Condition</h3>
 
 <div class="formula">
 F<sub>f</sub> cos α &gt; F<sub>n</sub> sin α<br>
 μ &gt; tan α
 </div>
 
-<h2>Maximum Draft and Mandrel Velocity</h2>
+<h3>Maximum Draft and Mandrel Velocity</h3>
 
 <div class="formula">
 Δh<sub>max</sub> = (μ² d<sub>r</sub>) / 2
