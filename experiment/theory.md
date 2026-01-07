@@ -76,8 +76,9 @@ zones.
     <li>no – Ring rotational speed</li>
     <li>va – Mandrel advance velocity</li>
 </ul>
+
 <center>
- <img src="images/RingRollingDescription.png" alt="Ring Rolling Ajay Kant Upadhyay" height="300" width="400">  
+<img src="images/RingRollingDescription.png" alt="Ring Rolling Ajay Kant Upadhyay" height="300" width="400">  
 </center>
 
 
