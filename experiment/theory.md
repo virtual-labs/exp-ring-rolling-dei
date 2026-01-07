@@ -32,7 +32,7 @@ diameter instead of filling the cavities.
 <center><img src="images/3D_RingRolling.jpg" alt="Ring Rolling Ajay Knat Upadhyay" height="250" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/RingRolling.png" alt="Ring Rolling Ajay Kant Upadhyay" height="250" width="400"><br>
 <br>Figure: (a) 3-D View of Ring Rolling Process, (b) Schematic View of Ring Rolling Process</center>
 
-### Ring Rolling Process Description###
+### Ring Rolling Process Description
 
 <p>
 A typical ring rolling process consists of two sets of rolls: a radial set that reduces the
